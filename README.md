@@ -1,6 +1,6 @@
 #### api-rest-spring-boot
 
-Rest API criada usando o Spring Boot como prática de acordo com a lista de video da Youtuber Michelli Brito.
+Rest API criada usando o Spring Boot como prática de CRUD.
 
 #####
 
